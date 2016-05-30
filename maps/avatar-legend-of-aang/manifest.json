@@ -1,0 +1,20 @@
+{
+    "name": "avatar-legend-of-aang",
+    "title": "Avatar: The Legend of Aang",
+    "latestVersion": "1.79",
+    "description": "",
+    "tags": [],
+    "authors": [],
+    "map": {
+        "size": "256x256",
+        "tileset": "City Ruins",
+        "playerCount": 1
+    },
+    "glacier": {
+        "modules": [
+            {"module": "local-storage", "version": "1.23"},
+            {"module": "websocket", "version": "1.11"},
+            {"module": "audio-manager", "version": "0.85"}
+        ]
+    }
+}
