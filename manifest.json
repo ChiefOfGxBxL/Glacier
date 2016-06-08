@@ -2,6 +2,7 @@
     "maps": [
         {"mapname": "sunken-city", "maptitle": "Sunken City", "version": "1.79"},
         {"mapname": "dead-zone", "maptitle": "Dead Zone", "version": "1.79"},
+        {"mapname": "dead-zone2", "maptitle": "Dead Zone 2", "version": "1.79"},
         {"mapname": "avatar-legend-of-aang", "maptitle": "Avatar: The Legend of Aang", "version": "1.79"}
     ]
 }

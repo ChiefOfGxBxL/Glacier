@@ -1,0 +1,18 @@
+{
+    "name": "dead-zone2",
+    "title": "Dead Zone 2",
+    "latestVersion": "1.79",
+    "description": "",
+    "tags": [],
+    "authors": [],
+    "map": {
+        "size": "256x256",
+        "tileset": "City Ruins",
+        "playerCount": 1
+    },
+    "glacier": {
+        "modules": [
+            {"module": "localstorage", "version": "0.10"}
+        ]
+    }
+}
