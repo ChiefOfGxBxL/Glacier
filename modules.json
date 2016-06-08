@@ -1,0 +1,24 @@
+{
+    "modules": {
+        "localstorage": {
+            "module": "localstorage",
+            "versions": {
+                "0.10": {
+                    "md5": "aaaa",
+                    "sha256": "abb",
+                    "natives": [
+                        "native InitializeLocalStorage  takes string gamename returns nothing",
+                        "native SaveTextToFile          takes string filename, string content returns nothing",
+                        "native StringifyObject         takes nothing returns nothing",
+                        "native JSONParse               takes string name, string str returns nothing",
+                        "native JSONReadProperty        takes string name, string property returns string",
+                        "native ReadFileText            takes string filename returns string"
+                    ]
+                }
+            }
+        },
+        "websocket": {
+        
+        }
+    }
+}
