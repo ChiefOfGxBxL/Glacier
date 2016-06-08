@@ -12,9 +12,7 @@
     },
     "glacier": {
         "modules": [
-            {"module": "local-storage", "version": "1.23"},
-            {"module": "websocket", "version": "1.11"},
-            {"module": "audio-manager", "version": "0.85"}
+            {"module": "localstorage", "version": "0.10"}
         ]
     }
 }
