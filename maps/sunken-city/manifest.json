@@ -12,7 +12,7 @@
     },
     "glacier": {
         "modules": [
-            {"module": "localstorage", "version": "0.10"},
+            {"module": "localstorage", "version": "0.10"}
         ]
     }
 }
