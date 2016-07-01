@@ -1,17 +1,3 @@
-<style>
-p.quarter {
-	float:left;
-	width:25%;
-	font-size:1.3em;
-}
-p.fifth {
-	float:left;
-	width:20%;
-	font-size:0.9em;
-}
-a[id] {color:#333;}
-</style>
-
 <p align="center">
     <a href="https://github.com/inikulin/parse5">
         <img src="https://raw.githubusercontent.com/ChiefOfGxBxL/Glacier/master/header.jpg" alt="Glacier" />
@@ -25,45 +11,11 @@ a[id] {color:#333;}
 
 ----
 
-<p class='quarter' align="center">
-  <a href="#overview">Overview</a>
-</p>
+| <a href="#overview">Overview</a> | <a href="#get-started">Getting Started</a> | <a href="#developers">Developers</a> | <a href="#contributing">Contributing</a> | 
+|---|---|---|---|
 
-<p class='quarter' align="center">
-  <a href="#get-started">Getting Started</a>
-</p>
-
-<p class='quarter' align="center">
-  <a href="#developers">Developers</a>
-</p>
-
-<p class='quarter' align="center">
-  <a href="#contributing">Contributing</a>
-</p>
-
-<br style='clear:both;'/>
-
-<p class='fifth' align="center">
-  <a href="#">Versions</a>
-</p>
-
-<p class='fifth' align="center">
-  <a href="#">Authors</a>
-</p>
-
-<p class='fifth' align="center">
-  <a href="#">Contact Us</a>
-</p>
-
-<p class='fifth' align="center">
-  <a href="#">FAQ</a>
-</p>
-
-<p class='fifth' align="center">
-  <a href="#">Feedback</a>
-</p>
-
-<br style='clear:both;'/>
+| <a href="#">Versions</a> | <a href="#">Authors</a> | <a href="#">Contact Us</a> | <a href="#">FAQ</a> | <a href="#">Feedback</a>|
+|---|---|---|---|---|
 
 ----
 
