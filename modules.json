@@ -1,24 +1,19 @@
 {
-    "modules": {
-        "localstorage": {
-            "module": "localstorage",
-            "versions": {
-                "0.10": {
-                    "md5": "aaaa",
-                    "sha256": "abb",
-                    "natives": [
-                        "native InitializeLocalStorage  takes string gamename returns nothing",
-                        "native SaveTextToFile          takes string filename, string content returns nothing",
-                        "native StringifyObject         takes nothing returns nothing",
-                        "native JSONParse               takes string name, string str returns nothing",
-                        "native JSONReadProperty        takes string name, string property returns string",
-                        "native ReadFileText            takes string filename returns string"
-                    ]
-                }
-            }
-        },
-        "websocket": {
-        
+    "modules": [
+        {
+            "name": "localstorage", 
+            "version": "0.10", 
+            "MD5": "C5AAAF7F2C61A6BF52DCEAD94E0BBAA0", 
+            "SHA1": "55C9F9C412ED549C97DE5481F5232AFFAB8EDE84", 
+            "SHA256": "497B35499A92F64ABFD5DBF35D5D08292C1EFA5615ADA9CACCCF96C219962F81",
+            "natives": [
+                "native InitializeLocalStorage  takes string gamename returns nothing",
+                "native SaveTextToFile          takes string filename, string content returns nothing",
+                "native StringifyObject         takes nothing returns nothing",
+                "native JSONParse               takes string name, string str returns nothing",
+                "native JSONReadProperty        takes string name, string property returns string",
+                "native ReadFileText            takes string filename returns string"
+            ]
         }
-    }
+    ]
 }
