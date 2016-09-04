@@ -10,9 +10,7 @@
         "tileset": "City Ruins",
         "playerCount": 1
     },
-    "glacier": {
-        "modules": [
-            {"module": "localstorage", "version": "0.10"}
-        ]
-    }
+    "modules": [
+        {"name": "localstorage", "version": "0.10"}
+    ]
 }
